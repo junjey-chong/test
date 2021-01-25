@@ -1,0 +1,22 @@
+.btn-green{
+	background-color: #bcb0a6;
+	padding: 20px 30px;
+	border-radius: 5px;
+}
+
+.btn-green:hover{
+	background-color: #af9765;
+}
+
+#collection .card .btn-green{
+	padding: 20px 70px;
+}	
+
+#toplist .card .btn-green{
+	margin-right:20px;
+}	
+
+
+#end .btn-green{
+	background-color: none;
+}
